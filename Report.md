@@ -33,7 +33,7 @@ MAX_T = 1000
 
 The agent has solved the problem after 2060 games:
 
-<img src="https://github.com/Chulvi/DRL_Nanodegree_Collaboration_And_Competition/blob/main/images/rewards.pngg" width="800"></img>
+<img src="https://github.com/Chulvi/DRL_Nanodegree_Collaboration_And_Competition/blob/main/images/rewards.png" width="800"></img>
 
 ```
 Game 100  --->  Avg Reward: 0.02  ---> Reward: 0.0
